@@ -4,3 +4,6 @@ Markdown is a lightweight markup language used for formatting plain text. It all
 
 ## Smaller heading.
 
+### Using bold.
+
+This is **bold** 

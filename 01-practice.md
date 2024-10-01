@@ -55,3 +55,13 @@ public class HelloWorld {
 
 > This is a quote.  
 >> -Martin L. King JR.
+
+## horizontal separation.
+
+text1
+---
+text2
+***
+text3
+___
+text4

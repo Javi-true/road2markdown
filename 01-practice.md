@@ -80,3 +80,9 @@ text4
 * Tortillas
 * Mayo
 
+## Adding tables.
+
+| Col 1 | Col 2 |
+| :-----: | :-----: |
+| 1     | 2     |
+| Hello | Good  |

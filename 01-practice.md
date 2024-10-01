@@ -29,3 +29,17 @@ This is <mark>highlighted</mark>
 😀
 
 You can add emojis by copying and pasting it.
+
+## Adding code.
+
+To add code we use the ` symbol. We initializate it with three of them, and we close it with another three.
+
+```java
+// ```
+public class HelloWorld {
+    public static void main (String[] args){
+        System.out.println("Hello world!");
+    }
+}
+// ```
+```

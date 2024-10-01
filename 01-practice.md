@@ -59,9 +59,24 @@ public class HelloWorld {
 ## horizontal separation.
 
 text1
+
 ---
 text2
 ***
 text3
 ___
 text4
+
+## List.
+
+1. Uno
+2. Dos
+3. Tres
+4. Cuatro
+5. Cinco
+
+* Eggs
+    * Organic
+* Tortillas
+* Mayo
+

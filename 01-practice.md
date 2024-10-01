@@ -7,3 +7,11 @@ Markdown is a lightweight markup language used for formatting plain text. It all
 ### Using bold.
 
 This is **bold** 
+
+This is __bold__ too
+
+### Using italics.
+
+This is *italics*
+
+This is _italics_ too

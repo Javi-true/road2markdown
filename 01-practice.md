@@ -20,3 +20,7 @@ This is _italics_ too
 
 This is ~~crossed~~
 
+## Using highlighs.
+
+This is <mark>highlighted</mark>
+

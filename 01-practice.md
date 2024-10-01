@@ -24,3 +24,8 @@ This is ~~crossed~~
 
 This is <mark>highlighted</mark>
 
+## Emojis
+
+😀
+
+You can add emojis by copying and pasting it.

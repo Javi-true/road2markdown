@@ -46,3 +46,8 @@ public class HelloWorld {
 ## Link added.
 
 [This is a link](http://google.com)
+
+## Images.
+
+![Black schnauzer](https://i.pinimg.com/736x/ec/f0/60/ecf060093664362ecf921998eb9507bf.jpg)
+
